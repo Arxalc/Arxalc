@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arxalc
-- 👀 I’m interested in programming! The struggle is real, but I'm try, try, try regardless.
+- 👀 I’m interested in programming! The struggle is real, but I'll try, try, try regardless.
 - 🌱 I’m currently learning about computer science. It's my major.
 - 📫 Reach me through my email: clarazhangworks@gmail.com 
 
